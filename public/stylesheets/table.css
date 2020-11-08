@@ -1,0 +1,20 @@
+table,th,td {
+    padding-top: 20px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width:50%;
+    border:2px solid black;
+    border-collapse: collapse;
+}
+
+#disc tr:nth-child(odd){
+    background-color: gray;
+}
+
+th{
+    background-color: red;
+}
+header{
+    font-size:20px;
+}
